@@ -13,21 +13,27 @@ $color = "EB7E39";
 require('php/header.php');
 
 ?>
-								Call our offices in Boulder, Colorado: <font size="+1">303-443-0087</font>
+								&mdash; <em>call us</em>
+								<br>
+								<font size="+1">303-443-0087</font>
 								<br><br>
-								Send us an e-mail: <a href="liviahall@gmail.com">liviahall@gmail.com</a>
+								
+								&mdash; <em>email us</em>
+								<br>
+								<a href="mailto:info@acupunctureworksboulder.com">liviahall@gmail.com</a>
 								<br><br>
-								Send us mail or stop by our offices: 
-								<br><br>
+								
+								&mdash; <em>visit us</em>
+								<br>
 								<b>acupunctureWorks</b><br>
 								3405 Penrose Pl. Suite 206<br>
 								Boulder, CO  80301
 								<br><br>
-								Find our office here: <a href="https://www.google.com/maps/place/3405+Penrose+Pl,+Boulder,+CO+80301/@40.0375896,-105.2498778,17.66z/data=!4m2!3m1!1s0x876bee6dd4546eef:0xfd511ddffb15ad15" target="_blank">View Map</a>
-								<br><br>
-								We'd love to hear from you - please consider yourself invited to contact us or stop by our charming offices in Boulder, Colorado.  Ask any questions you have about acupuncture, herbs, bodywork, nutrition, or any aspect of what we do.  We're happy to answer any questions you may have about any of the information we have posted here on our website.  We are here to help, so please take advantage of this resource.  We're happy to discuss your health condition with you, or give you some solid ideas about how what we do can help your health.  Need ideas, information, or advice?  Let us here from you!
-								<br><br>
-								We are also available to speak or provide addresses to numerous different kinds of groups or associations.  We have great experience providing this service, and can easily provide an informative, interesting, and inspiring talk or discussion for your group or interests.  Ted is an inspiring lecturer with 10 years of teaching experience in the field of Oriental medicine and philosophy, and Livia has given numerous talks on Oriental medicine and Health & Nutrition.  Please contact us for further information.
+
+								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3054.6900545236945!2d-105.250714484864!3d40.03769898652826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876bec2bfd25009f%3A0x11d96a9fed47d430!2sAcupuncture+Works!5e0!3m2!1sen!2sus!4v1462651003536" width="565" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+								<small class="floatRight">
+									(<a href="https://www.google.com/maps/place/3405+Penrose+Pl,+Boulder,+CO+80301/@40.0375896,-105.2498778,17.66z/data=!4m2!3m1!1s0x876bee6dd4546eef:0xfd511ddffb15ad15" target="_blank">view map in a new window</a>)
+								</small>
 <?php
 
 require('php/footer.php');
