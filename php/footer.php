@@ -6,7 +6,7 @@
 							&nbsp;
 						</td>
 						<td valign="bottom" width="690" height="100%">
-							<div class="credits">1723 Canyon Blvd., Boulder, CO 80302. Phone: 303.443.0087. <a href="http://www.widerange.org" target="_blank">Web design & nature photos by Jack Brauer.</a></div>
+							<div class="credits">3405 Penrose Pl. Suite 206, Boulder, CO 80301. Phone: 303.443.0087.</div>
 						</td>
 					</tr>
 				</table>	

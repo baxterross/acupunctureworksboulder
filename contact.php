@@ -15,7 +15,7 @@ require('php/header.php');
 ?>
 								Call our offices in Boulder, Colorado: <font size="+1">303-443-0087</font>
 								<br><br>
-								Send us an e-mail: <a href="mailto:info@acupunctureworksboulder.com">info@acupunctureworksboulder.com</a>
+								Send us an e-mail: <a href="liviahall@gmail.com">liviahall@gmail.com</a>
 								<br><br>
 								Send us mail or stop by our offices: 
 								<br><br>
