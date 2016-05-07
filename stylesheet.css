@@ -1,0 +1,70 @@
+body {
+	font-family: Gill Sans, Verdana, Geneva, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 18px;
+	color: #000000;
+	background-color: #EDEBEA;
+	text-align: left;
+	margin: 0px;
+	background-image: url(images/bkgGradient.jpg);
+	background-repeat: repeat-x;
+}
+td {
+	font-family: Gill Sans, Verdana, Geneva, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 18px;
+}
+.nav {
+	color: #7D889C;
+	font-weight: bold;
+	font-size: 12px;
+	letter-spacing:.1em;
+	line-height: 30px;
+	text-align: right;
+}
+.nav a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.nav a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.nav a:hover {
+	color: #000000;
+	text-decoration: none;
+}
+.hidden {
+	display: none;
+}
+.content {
+	padding: 5px 70px 60px 55px;
+}
+.floatRight {
+	float: right;
+	border: none;
+	margin-left: 6px;
+}
+.floatLeft {
+	float: left;
+	margin-right: 6px;
+	border: none;
+}
+.credits {
+	color: #777777;
+	padding: 0px 70px 2px 55px;
+	font-size: 9px;
+	line-height: 10px;
+}
+.credits a:link {
+	color: #777777;
+	text-decoration: none;
+}
+.credits a:visited {
+	color: #777777;
+	text-decoration: none;
+}
+.credits a:hover {
+	color: #777777;
+	text-decoration: underline;
+}
