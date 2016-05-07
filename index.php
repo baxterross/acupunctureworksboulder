@@ -12,14 +12,13 @@ $color = "CF974C";
 require('php/header.php');
 
 ?>
-								<img src="images/team.jpg" class="floatRight">
+								<img src="images/livia.jpg" alt="Livia Hall" class="floatRight">
 								Welcome to <b>acupunctureWorks</b> - the practice of Livia Hall, L. Ac. and Ted Hall, L. Ac. Our offices are located in Boulder, Colorado, and we have over 25 years of clinical experience.
 								<br><br>
 								<h3>Our Mission:</h3>
 								To provide each patient the highest quality health care through excellent individualized treatments and health maintenance education.
 								<br><br>
 								<h3>Our Philosophy:</h3>
-								<img src="images/burning.jpg" class="floatRight">
 								The principals of Traditional Chinese Medicine are based on physical and energetic relationships found in nature. We believe in the simplicity and perfection of nature and strive to maintain our medical services and office atmosphere to reflect tranquility and quality.
 								<br><br>
 								We are neither an impersonal high tech medical facility nor an esoteric alternative wellness center. In fact, we do not consider ourselves "alternative" medical practitioners, rather full service primary care providers serving patients with reliable and effective treatments coupled with a holistic approach toward diet, exercise, stress management and lifestyle.

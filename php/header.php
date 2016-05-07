@@ -39,7 +39,6 @@ require('php/css.php');
 								<a href="herbs.php">HERBS</a><br>
 								<a href="bodywork.php">BODYWORK</a><br>
 								<a href="bio_livia.php">LIVIA HALL</a><br>
-								<a href="bio_ted.php">TED HALL</a><br>
 								<a href="selfhelp.php">SELF HELP</a><br>
 								<a href="healthresources.php">RESOURCES</a><br>
 								<a href="contact.php">CONTACT US</a><br>
