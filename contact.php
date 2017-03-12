@@ -20,7 +20,7 @@ require('php/header.php');
 								
 								&mdash; <em>email us</em>
 								<br>
-								<a href="mailto:info@acupunctureworksboulder.com">liviahall@gmail.com</a>
+								<a href="mailto:liviahall@gmail.com">liviahall@gmail.com</a>
 								<br><br>
 								
 								&mdash; <em>visit us</em>
